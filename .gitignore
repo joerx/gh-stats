@@ -20,5 +20,5 @@ gh-stats
 # Secrets
 .secrets
 
-# Venro files
+# Vendor files
 vendor/
